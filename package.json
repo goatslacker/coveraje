@@ -28,7 +28,8 @@
     },
     "dependencies": {
         "esprima": "*",
-        "escodegen": "*"
+        "escodegen": "*",
+        "dune": "*"
     },
     "devDependencies": {
         "jshint": ">=0.4",
